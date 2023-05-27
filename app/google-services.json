@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "514001696733",
+    "project_id": "sns-project-e8e51",
+    "storage_bucket": "sns-project-e8e51.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514001696733:android:83fa28ddf60c8c33be2834",
+        "android_client_info": {
+          "package_name": "com.ally.android.sns_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJtwr9ewn0HcYjQfBgy13RtaQk61no7J0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
