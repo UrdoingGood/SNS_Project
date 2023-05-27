@@ -48,13 +48,23 @@
             android:inputType="textPassword" />
 
         <Button
-            android:id="@+id/logInButton"
+            android:id="@+id/signUpButton"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:backgroundTint="#B3B3B3"
             android:text="회원가입"
             android:textColor="#000000"
+            android:textColorHint="#C8C8C8" />
+
+        <Button
+            android:id="@+id/gotoLoginButton"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:backgroundTint="#B3B3B3"
+            android:text="로그인"
+            android:textColor="#000000"
             android:textColorHint="#9A9A9A" />
+
     </LinearLayout>
 
 </LinearLayout>
